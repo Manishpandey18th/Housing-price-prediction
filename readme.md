@@ -27,21 +27,21 @@ Step
 
 ```
 
-### 1. Install Dependencies
+1. Install Dependencies
 ```bash
 pip install -r requirements.txt
 
-### 2. Place Dataset
+2. Place Dataset
 
 - Save `housing_prices.csv` in the project root directory.
 - Alternatively, update the DATA_PATH variable in house.ipynb to point to your dataset location.
 
-## 3. Run the Notebook
+3. Run the Notebook
 
 - Open `housing_price_predicts.ipynb` in Jupyter (e.g., jupyter notebook).
 - Run the cells in order to perform EDA, preprocess data, train models, and save the best model to `./output/best_model.joblib`.
 
-### 4. Run the Streamlit App
+4. Run the Streamlit App
 
 - After running the notebook, launch the app:
 ```bash
@@ -50,7 +50,7 @@ streamlit run app.py
 - Input feature values in the app to get price predictions. 
 - Ensure inputs match the dataset's ranges and categories.
 
-### Analysis and Modeling
+Analysis and Modeling
 
 - `EDA`: Visualizes price distribution, price per square foot, and correlations.
 - `Preprocessing`: Handles missing values (imputation), encodes categorical features, scales numeric features, and removes outliers (1st/99th percentiles).
@@ -58,9 +58,10 @@ streamlit run app.py
 - `Models`: Trains Linear Regression and Random Forest, evaluates using MAE, RMSE, and R².
 - `Output`: Saves predictions, model, and evaluation report to ./output.
 
-### Notes & Next Steps
+Notes & Next Steps
 
 - `Improvements`: Consider hyperparameter tuning (e.g., GridSearchCV), adding interaction terms, or incorporating more data.
 - `Deployment`: Containerize with Docker or deploy to Streamlit Community Cloud for sharing.
 
 - `Limitations`: Model performance depends on dataset quality; some locations may have limited samples.
+
