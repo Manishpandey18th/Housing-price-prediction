@@ -21,28 +21,27 @@ The dataset (`housing_prices.csv`) contains the following features:
 - `Location`: Categorical (various locations)
 
 ## Setup
+Step
 
-### 1. Create a Virtual Environment (Recommended)
-```bash
-python -m venv venv
-source venv/bin/activate  # macOS/Linux
-venv\Scripts\activate     # Windows
+##
 
-### 2. Install Dependencies
+```
+
+### 1. Install Dependencies
 ```bash
 pip install -r requirements.txt
 
-### 3. Place Dataset
+### 2. Place Dataset
 
 - Save `housing_prices.csv` in the project root directory.
 - Alternatively, update the DATA_PATH variable in house.ipynb to point to your dataset location.
 
-## 4. Run the Notebook
+## 3. Run the Notebook
 
 - Open `housing_price_predicts.ipynb` in Jupyter (e.g., jupyter notebook).
 - Run the cells in order to perform EDA, preprocess data, train models, and save the best model to `./output/best_model.joblib`.
 
-### 5. Run the Streamlit App
+### 4. Run the Streamlit App
 
 - After running the notebook, launch the app:
 ```bash
@@ -63,4 +62,5 @@ streamlit run app.py
 
 - `Improvements`: Consider hyperparameter tuning (e.g., GridSearchCV), adding interaction terms, or incorporating more data.
 - `Deployment`: Containerize with Docker or deploy to Streamlit Community Cloud for sharing.
+
 - `Limitations`: Model performance depends on dataset quality; some locations may have limited samples.
