@@ -1,0 +1,546 @@
+price,area,Location,bedrooms,bathrooms,stories,mainroad,guestroom,basement,hotwaterheating,airconditioning,parking,prefarea,furnishingstatus
+13300000,7420,Kharghar,4,2,3,yes,no,no,no,yes,2,yes,furnished
+12250000,8960,Kharghar,4,4,4,yes,no,no,no,yes,3,no,furnished
+12250000,9960,Kharghar,3,2,2,yes,no,yes,no,no,2,yes,semi-furnished
+12215000,7500,Kharghar,4,2,2,yes,no,yes,no,yes,3,yes,furnished
+11410000,7420,Kharghar,4,1,2,yes,yes,yes,no,yes,2,no,furnished
+10850000,7500,Kharghar,3,3,1,yes,no,yes,no,yes,2,yes,semi-furnished
+10150000,8580,Kharghar,4,3,4,yes,no,no,no,yes,2,yes,semi-furnished
+10150000,16200,Sector-13 Kharghar,5,3,2,yes,no,no,no,no,0,no,unfurnished
+9870000,8100,Kharghar,4,1,2,yes,yes,yes,no,yes,2,yes,furnished
+9800000,5750,Kharghar,3,2,4,yes,yes,no,no,yes,1,yes,unfurnished
+9800000,13200,Kharghar,3,1,2,yes,no,yes,no,yes,2,yes,furnished
+9681000,6000,Kharghar,4,3,2,yes,yes,yes,yes,no,2,no,semi-furnished
+9310000,6550,Kharghar,4,2,2,yes,no,no,no,yes,1,yes,semi-furnished
+9240000,3500,Kharghar,4,2,2,yes,no,no,yes,no,2,no,furnished
+9240000,7800,Kharghar,3,2,2,yes,no,no,no,no,0,yes,semi-furnished
+9100000,6000,Kharghar,4,1,2,yes,no,yes,no,no,2,no,semi-furnished
+9100000,6600,Sector 18 Kharghar,4,2,2,yes,yes,yes,no,yes,1,yes,unfurnished
+8960000,8500,Kharghar,3,2,4,yes,no,no,no,yes,2,no,furnished
+8890000,4600,Kharghar,3,2,2,yes,yes,no,no,yes,2,no,furnished
+8855000,6420,Kharghar,3,2,2,yes,no,no,no,yes,1,yes,semi-furnished
+8750000,4320,Kharghar,3,1,2,yes,no,yes,yes,no,2,no,semi-furnished
+8680000,7155,Kharghar,3,2,1,yes,yes,yes,no,yes,2,no,unfurnished
+8645000,8050,Kharghar,3,1,1,yes,yes,yes,no,yes,1,no,furnished
+8645000,4560,Kharghar,3,2,2,yes,yes,yes,no,yes,1,no,furnished
+8575000,8800,Kharghar,3,2,2,yes,no,no,no,yes,2,no,furnished
+8540000,6540,Kharghar,4,2,2,yes,yes,yes,no,yes,2,yes,furnished
+8463000,6000,Kharghar,3,2,4,yes,yes,yes,no,yes,0,yes,semi-furnished
+8400000,8875,Kharghar,3,1,1,yes,no,no,no,no,1,no,semi-furnished
+8400000,7950,Kharghar,5,2,2,yes,no,yes,yes,no,2,no,unfurnished
+8400000,5500,Kharghar,4,2,2,yes,no,yes,no,yes,1,yes,semi-furnished
+8400000,7475,Kharghar,3,2,4,yes,no,no,no,yes,2,no,unfurnished
+8400000,7000,Kharghar,3,1,4,yes,no,no,no,yes,2,no,semi-furnished
+8295000,4880,Kharghar,4,2,2,yes,no,no,no,yes,1,yes,furnished
+8190000,5960,Kharghar,3,3,2,yes,yes,yes,no,no,1,no,unfurnished
+8120000,6840,Kharghar,5,1,2,yes,yes,yes,no,yes,1,no,furnished
+8080940,7000,Kharghar,3,2,4,yes,no,no,no,yes,2,no,furnished
+8043000,7482,Kharghar,3,2,3,yes,no,no,yes,no,1,yes,furnished
+7980000,9000,Kharghar,4,2,4,yes,no,no,no,yes,2,no,furnished
+7962500,6000,Kharghar,3,1,4,yes,yes,no,no,yes,2,no,unfurnished
+7910000,6000,Kharghar,4,2,4,yes,no,no,no,yes,1,no,semi-furnished
+7875000,6550,Kharghar,3,1,2,yes,no,yes,no,yes,0,yes,furnished
+7840000,6360,Kharghar,3,2,4,yes,no,no,no,yes,0,yes,furnished
+7700000,6480,Kharghar,3,2,4,yes,no,no,no,yes,2,no,unfurnished
+7700000,6000,Kharghar,4,2,4,yes,no,no,no,no,2,no,semi-furnished
+7560000,6000,Kharghar,4,2,4,yes,no,no,no,yes,1,no,furnished
+7560000,6000,Kharghar,3,2,3,yes,no,no,no,yes,0,no,semi-furnished
+7525000,6000,Kharghar,3,2,4,yes,no,no,no,yes,1,no,furnished
+7490000,6600,Kharghar,3,1,4,yes,no,no,no,yes,3,yes,furnished
+7455000,4300,Kharghar,3,2,2,yes,no,yes,no,no,1,no,unfurnished
+7420000,7440,Kharghar,3,2,1,yes,yes,yes,no,yes,0,yes,semi-furnished
+7420000,7440,Kharghar,3,2,4,yes,no,no,no,no,1,yes,unfurnished
+7420000,6325,Kharghar,3,1,4,yes,no,no,no,yes,1,no,unfurnished
+7350000,6000,Kharghar,4,2,4,yes,yes,no,no,yes,1,no,furnished
+7350000,5150,Kharghar,3,2,4,yes,no,no,no,yes,2,no,semi-furnished
+7350000,6000,Kharghar,3,2,2,yes,yes,no,no,yes,1,no,semi-furnished
+7350000,6000,Kharghar,3,1,2,yes,no,no,no,yes,1,no,unfurnished
+7343000,11440,Kharghar,4,1,2,yes,no,yes,no,no,1,yes,semi-furnished
+7245000,9000,Kharghar,4,2,4,yes,yes,no,no,yes,1,yes,furnished
+7210000,7680,Kharghar,4,2,4,yes,yes,no,no,yes,1,no,semi-furnished
+7210000,6000,Kharghar,3,2,4,yes,yes,no,no,yes,1,no,furnished
+7140000,6000,Kharghar,3,2,2,yes,yes,no,no,no,1,no,semi-furnished
+7070000,8880,Kharghar,2,1,1,yes,no,no,no,yes,1,no,semi-furnished
+7070000,6240,Kharghar,4,2,2,yes,no,no,no,yes,1,no,furnished
+7035000,6360,Kharghar,4,2,3,yes,no,no,no,yes,2,yes,furnished
+7000000,11175,Kharghar,3,1,1,yes,no,yes,no,yes,1,yes,furnished
+6930000,8880,Kharghar,3,2,2,yes,no,yes,no,yes,1,no,furnished
+6930000,13200,Kharghar,2,1,1,yes,no,yes,yes,no,1,no,furnished
+6895000,7700,Kharghar,3,2,1,yes,no,no,no,no,2,no,unfurnished
+6860000,6000,Kharghar,3,1,1,yes,no,no,no,yes,1,no,furnished
+6790000,12090,Kharghar,4,2,2,yes,no,no,no,no,2,yes,furnished
+6790000,4000,Kharghar,3,2,2,yes,no,yes,no,yes,0,yes,semi-furnished
+6755000,6000,Kharghar,4,2,4,yes,no,no,no,yes,0,no,unfurnished
+6720000,5020,Kharghar,3,1,4,yes,no,no,no,yes,0,yes,unfurnished
+6685000,6600,Kharghar,2,2,4,yes,no,yes,no,no,0,yes,furnished
+6650000,4040,Kharghar,3,1,2,yes,no,yes,yes,no,1,no,furnished
+6650000,4260,Kharghar,4,2,2,yes,no,no,yes,no,0,no,semi-furnished
+6650000,6420,Kharghar,3,2,3,yes,no,no,no,yes,0,yes,furnished
+6650000,6500,Kharghar,3,2,3,yes,no,no,no,yes,0,yes,furnished
+6650000,5700,Kharghar,3,1,1,yes,yes,yes,no,yes,2,yes,furnished
+6650000,6000,Kharghar,3,2,3,yes,yes,no,no,yes,0,no,furnished
+6629000,6000,Kharghar,3,1,2,yes,no,no,yes,no,1,yes,semi-furnished
+6615000,4000,Kharghar,3,2,2,yes,no,yes,no,yes,1,no,semi-furnished
+6615000,10500,Kharghar,3,2,1,yes,no,yes,no,yes,1,yes,furnished
+6580000,6000,Kharghar,3,2,4,yes,no,no,no,yes,0,no,semi-furnished
+6510000,3760,Kharghar,3,1,2,yes,no,no,yes,no,2,no,semi-furnished
+6510000,8250,Kharghar,3,2,3,yes,no,no,no,yes,0,no,furnished
+6510000,6670,Kharghar,3,1,3,yes,no,yes,no,no,0,yes,unfurnished
+6475000,3960,Kharghar,3,1,1,yes,no,yes,no,no,2,no,semi-furnished
+6475000,7410,Kharghar,3,1,1,yes,yes,yes,no,yes,2,yes,unfurnished
+6440000,8580,Kharghar,5,3,2,yes,no,no,no,no,2,no,furnished
+6440000,5000,Kharghar,3,1,2,yes,no,no,no,yes,0,no,semi-furnished
+6419000,6750,Kharghar,2,1,1,yes,yes,yes,no,no,2,yes,furnished
+6405000,4800,Kharghar,3,2,4,yes,yes,no,no,yes,0,no,furnished
+6300000,7200,Kharghar,3,2,1,yes,no,yes,no,yes,3,no,semi-furnished
+6300000,6000,Kharghar,4,2,4,yes,no,no,no,no,1,no,semi-furnished
+6300000,4100,Kharghar,3,2,3,yes,no,no,no,yes,2,no,semi-furnished
+6300000,9000,Kharghar,3,1,1,yes,no,yes,no,no,1,yes,furnished
+6300000,6400,Kharghar,3,1,1,yes,yes,yes,no,yes,1,yes,semi-furnished
+6293000,6600,Kharghar,3,2,3,yes,no,no,no,yes,0,yes,unfurnished
+6265000,6000,Kharghar,4,1,3,yes,yes,yes,no,no,0,yes,unfurnished
+6230000,6600,Sector 20 Kharghar,3,2,1,yes,no,yes,no,yes,0,yes,unfurnished
+6230000,5500,Kharghar,3,1,3,yes,no,no,no,no,1,yes,unfurnished
+6195000,5500,Kharghar,3,2,4,yes,yes,no,no,yes,1,no,semi-furnished
+6195000,6350,Kharghar,3,2,3,yes,yes,no,no,yes,0,no,furnished
+6195000,5500,Kharghar,3,2,1,yes,yes,yes,no,no,2,yes,furnished
+6160000,4500,Kharghar,3,1,4,yes,no,no,no,yes,0,no,unfurnished
+6160000,5450,Kharghar,4,2,1,yes,no,yes,no,yes,0,yes,semi-furnished
+6125000,6420,Kharghar,3,1,3,yes,no,yes,no,no,0,yes,unfurnished
+6107500,3240,Kharghar,4,1,3,yes,no,no,no,no,1,no,semi-furnished
+6090000,6615,Kharghar,4,2,2,yes,yes,no,yes,no,1,no,semi-furnished
+6090000,6600,Kharghar,3,1,1,yes,yes,yes,no,no,2,yes,semi-furnished
+6090000,8372,Kharghar,3,1,3,yes,no,no,no,yes,2,no,unfurnished
+6083000,4300,Kharghar,6,2,2,yes,no,no,no,no,0,no,furnished
+6083000,9620,Kharghar,3,1,1,yes,no,yes,no,no,2,yes,furnished
+6020000,6800,Kharghar,2,1,1,yes,yes,yes,no,no,2,no,furnished
+6020000,8000,Kharghar,3,1,1,yes,yes,yes,no,yes,2,yes,semi-furnished
+6020000,6900,Kharghar,3,2,1,yes,yes,yes,no,no,0,yes,unfurnished
+5950000,3700,Kharghar,4,1,2,yes,yes,no,no,yes,0,no,furnished
+5950000,6420,Kharghar,3,1,1,yes,no,yes,no,yes,0,yes,furnished
+5950000,7020,Kharghar,3,1,1,yes,no,yes,no,yes,2,yes,semi-furnished
+5950000,6540,Kharghar,3,1,1,yes,yes,yes,no,no,2,yes,furnished
+5950000,7231,Kharghar,3,1,2,yes,yes,yes,no,yes,0,yes,semi-furnished
+5950000,6254,Kharghar,4,2,1,yes,no,yes,no,no,1,yes,semi-furnished
+5950000,7320,Kharghar,4,2,2,yes,no,no,no,no,0,no,furnished
+5950000,6525,Kharghar,3,2,4,yes,no,no,no,no,1,no,furnished
+5943000,15600,Kharghar,3,1,1,yes,no,no,no,yes,2,no,semi-furnished
+5880000,7160,Kharghar,3,1,1,yes,no,yes,no,no,2,yes,unfurnished
+5880000,6500,Kharghar,3,2,3,yes,no,no,no,yes,0,no,unfurnished
+5873000,5500,Kharghar,3,1,3,yes,yes,no,no,yes,1,no,furnished
+5873000,11460,Kharghar,3,1,3,yes,no,no,no,no,2,yes,semi-furnished
+5866000,4800,Kharghar,3,1,1,yes,yes,yes,no,no,0,no,unfurnished
+5810000,5828,Kharghar,4,1,4,yes,yes,no,no,no,0,no,semi-furnished
+5810000,5200,Kharghar,3,1,3,yes,no,no,no,yes,0,no,semi-furnished
+5810000,4800,Kharghar,3,1,3,yes,no,no,no,yes,0,no,unfurnished
+5803000,7000,Kharghar,3,1,1,yes,no,yes,no,no,2,yes,semi-furnished
+5775000,6000,Kharghar,3,2,4,yes,no,no,no,yes,0,no,unfurnished
+5740000,5400,Kharghar,4,2,2,yes,no,no,no,yes,2,no,unfurnished
+5740000,4640,Kharghar,4,1,2,yes,no,no,no,no,1,no,semi-furnished
+5740000,5000,Kharghar,3,1,3,yes,no,no,no,yes,0,no,semi-furnished
+5740000,6360,Kharghar,3,1,1,yes,yes,yes,no,yes,2,yes,furnished
+5740000,5800,Kharghar,3,2,4,yes,no,no,no,yes,0,no,unfurnished
+5652500,6660,Kharghar,4,2,2,yes,yes,yes,no,no,1,yes,semi-furnished
+5600000,10500,Kharghar,4,2,2,yes,no,no,no,no,1,no,semi-furnished
+5600000,4800,Kharghar,5,2,3,no,no,yes,yes,no,0,no,unfurnished
+5600000,4700,Kharghar,4,1,2,yes,yes,yes,no,yes,1,no,furnished
+5600000,5000,Kharghar,3,1,4,yes,no,no,no,no,0,no,furnished
+5600000,10500,Kharghar,2,1,1,yes,no,no,no,no,1,no,semi-furnished
+5600000,5500,Kharghar,3,2,2,yes,no,no,no,no,1,no,semi-furnished
+5600000,6360,Kharghar,3,1,3,yes,no,no,no,no,0,yes,semi-furnished
+5600000,6600,Kharghar,4,2,1,yes,no,yes,no,no,0,yes,semi-furnished
+5600000,5136,Kharghar,3,1,2,yes,yes,yes,no,yes,0,yes,unfurnished
+5565000,4400,Kharghar,4,1,2,yes,no,no,no,yes,2,yes,semi-furnished
+5565000,5400,Kharghar,5,1,2,yes,yes,yes,no,yes,0,yes,furnished
+5530000,3300,Kharghar,3,3,2,yes,no,yes,no,no,0,no,semi-furnished
+5530000,3650,Kharghar,3,2,2,yes,no,no,no,no,2,no,semi-furnished
+5530000,6100,Kharghar,3,2,1,yes,no,yes,no,no,2,yes,furnished
+5523000,6900,Kharghar,3,1,1,yes,yes,yes,no,no,0,yes,semi-furnished
+5495000,2817,Kharghar,4,2,2,no,yes,yes,no,no,1,no,furnished
+5495000,7980,Kharghar,3,1,1,yes,no,no,no,no,2,no,semi-furnished
+5460000,3150,Kharghar,3,2,1,yes,yes,yes,no,yes,0,no,furnished
+5460000,6210,Kharghar,4,1,4,yes,yes,no,no,yes,0,no,furnished
+5460000,6100,Kharghar,3,1,3,yes,yes,no,no,yes,0,yes,semi-furnished
+5460000,6600,Kharghar,4,2,2,yes,yes,yes,no,no,0,yes,semi-furnished
+5425000,6825,Kharghar,3,1,1,yes,yes,yes,no,yes,0,yes,semi-furnished
+5390000,6710,Kharghar,3,2,2,yes,yes,yes,no,no,1,yes,furnished
+5383000,6450,Sector 18 Kharghar,3,2,1,yes,yes,yes,yes,no,0,no,unfurnished
+5320000,7800,Kharghar,3,1,1,yes,no,yes,no,yes,2,yes,unfurnished
+5285000,4600,Sector 15 Kharghar,2,2,1,yes,no,no,no,yes,2,no,semi-furnished
+5250000,4260,Kharghar,4,1,2,yes,no,yes,no,yes,0,no,furnished
+5250000,6540,Kharghar,4,2,2,no,no,no,no,yes,0,no,semi-furnished
+5250000,5500,Kharghar,3,2,1,yes,no,yes,no,no,0,no,semi-furnished
+5250000,10269,Kharghar,3,1,1,yes,no,no,no,no,1,yes,semi-furnished
+5250000,8400,Kharghar,3,1,2,yes,yes,yes,no,yes,2,yes,unfurnished
+5250000,5300,Kharghar,4,2,1,yes,no,no,no,yes,0,yes,unfurnished
+5250000,3800,Kharghar,3,1,2,yes,yes,yes,no,no,1,yes,unfurnished
+5250000,9800,Sector 18 Kharghar,4,2,2,yes,yes,no,no,no,2,no,semi-furnished
+5250000,8520,Kharghar,3,1,1,yes,no,no,no,yes,2,no,furnished
+5243000,6050,Kharghar,3,1,1,yes,no,yes,no,no,0,yes,semi-furnished
+5229000,7085,Kharghar,3,1,1,yes,yes,yes,no,no,2,yes,semi-furnished
+5215000,3180,Sector 20 Kharghar,3,2,2,yes,no,no,no,no,2,no,semi-furnished
+5215000,4500,Kharghar,4,2,1,no,no,yes,no,yes,2,no,semi-furnished
+5215000,7200,Kharghar,3,1,2,yes,yes,yes,no,no,1,yes,furnished
+5145000,3410,Kharghar,3,1,2,no,no,no,no,yes,0,no,semi-furnished
+5145000,7980,Kharghar,3,1,1,yes,no,no,no,no,1,yes,semi-furnished
+5110000,3000,Kharghar,3,2,2,yes,yes,yes,no,no,0,no,furnished
+5110000,3000,Kharghar,3,1,2,yes,no,yes,no,no,0,no,unfurnished
+5110000,11410,Dombivali,2,1,2,yes,no,no,no,no,0,yes,furnished
+5110000,6100,Churchgate,3,1,1,yes,no,yes,no,yes,0,yes,semi-furnished
+5075000,5720,Prabhadevi,2,1,2,yes,no,no,no,yes,0,yes,unfurnished
+5040000,3540,Jogeshwari West,2,1,1,no,yes,yes,no,no,0,no,semi-furnished
+5040000,7600,Kalyan East,4,1,2,yes,no,no,no,yes,2,no,furnished
+5040000,10700,Malad East,3,1,2,yes,yes,yes,no,no,0,no,semi-furnished
+5040000,6600,Virar East,3,1,1,yes,yes,yes,no,no,0,yes,furnished
+5033000,4800,Virar East,2,1,1,yes,yes,yes,no,no,0,no,semi-furnished
+5005000,8150,Virar East,3,2,1,yes,yes,yes,no,no,0,no,semi-furnished
+4970000,4410,Virar,4,3,2,yes,no,yes,no,no,2,no,semi-furnished
+4970000,7686,Malad West,3,1,1,yes,yes,yes,yes,no,0,no,semi-furnished
+4956000,2800,Borivali East,3,2,2,no,no,yes,no,yes,1,no,semi-furnished
+4935000,5948,Malad East,3,1,2,yes,no,no,no,yes,0,no,semi-furnished
+4907000,4200,Mira Road East,3,1,2,yes,no,no,no,no,1,no,furnished
+4900000,4520,Goregaon West,3,1,2,yes,no,yes,no,yes,0,no,semi-furnished
+4900000,4095,Goregaon West,3,1,2,no,yes,yes,no,yes,0,no,semi-furnished
+4900000,4120,Goregaon West,2,1,1,yes,no,yes,no,no,1,no,semi-furnished
+4900000,5400,Borivali East,4,1,2,yes,no,no,no,no,0,no,semi-furnished
+4900000,4770,Goregaon West,3,1,1,yes,yes,yes,no,no,0,no,semi-furnished
+4900000,6300,Malad West,3,1,1,yes,no,no,no,yes,2,no,semi-furnished
+4900000,5800,Malad West,2,1,1,yes,yes,yes,no,yes,0,no,semi-furnished
+4900000,3000,Kandivali West,3,1,2,yes,no,yes,no,yes,0,no,semi-furnished
+4900000,2970,Kandivali West,3,1,3,yes,no,no,no,no,0,no,semi-furnished
+4900000,6720,Kandivali West,3,1,1,yes,no,no,no,no,0,no,unfurnished
+4900000,4646,Kandivali West,3,1,2,yes,yes,yes,no,no,2,no,semi-furnished
+4900000,12900,Borivali East,3,1,1,yes,no,no,no,no,2,no,furnished
+4893000,3420,Kandivali West,4,2,2,yes,no,yes,no,yes,2,no,semi-furnished
+4893000,4995,Kandivali West,4,2,1,yes,no,yes,no,no,0,no,semi-furnished
+4865000,4350,Borivali West,2,1,1,yes,no,yes,no,no,0,no,unfurnished
+4830000,4160,Goregaon West,3,1,3,yes,no,no,no,no,0,no,unfurnished
+4830000,6040,Kandivali West,3,1,1,yes,no,no,no,no,2,yes,semi-furnished
+4830000,6862,Goregaon West,3,1,2,yes,no,no,no,yes,2,yes,furnished
+4830000,4815,Goregaon West,2,1,1,yes,no,no,no,yes,0,yes,semi-furnished
+4795000,7000,Malad East,3,1,2,yes,no,yes,no,no,0,no,unfurnished
+4795000,8100,Kandivali West,4,1,4,yes,no,yes,no,yes,2,no,semi-furnished
+4767000,3420,Kandivali East,4,2,2,yes,no,no,no,no,0,no,semi-furnished
+4760000,9166,Goregaon West,2,1,1,yes,no,yes,no,yes,2,no,semi-furnished
+4760000,6321,Goregaon West,3,1,2,yes,no,yes,no,yes,1,no,furnished
+4760000,10240,Borivali West,2,1,1,yes,no,no,no,yes,2,yes,unfurnished
+4753000,6440,Andheri East,2,1,1,yes,no,no,no,yes,3,no,semi-furnished
+4690000,5170,Goregaon West,3,1,4,yes,no,no,no,yes,0,no,semi-furnished
+4690000,6000,Goregaon East,2,1,1,yes,no,yes,no,yes,1,no,furnished
+4690000,3630,Goregaon East,3,1,2,yes,no,no,no,no,2,no,semi-furnished
+4690000,9667,Malad East,4,2,2,yes,yes,yes,no,no,1,no,semi-furnished
+4690000,5400,Malad East,2,1,2,yes,no,no,no,no,0,yes,semi-furnished
+4690000,4320,Malad East,3,1,1,yes,no,no,no,no,0,yes,semi-furnished
+4655000,3745,Malad East,3,1,2,yes,no,yes,no,no,0,no,furnished
+4620000,4160,Borivali East,3,1,1,yes,yes,yes,no,yes,0,no,unfurnished
+4620000,3880,Borivali East,3,2,2,yes,no,yes,no,no,2,no,semi-furnished
+4620000,5680,Malad West,3,1,2,yes,yes,no,no,yes,1,no,semi-furnished
+4620000,2870,Kharghar,2,1,2,yes,yes,yes,no,no,0,yes,semi-furnished
+4620000,5010,Wadala,3,1,2,yes,no,yes,no,no,0,no,semi-furnished
+4613000,4510,Wadala,4,2,2,yes,no,yes,no,no,0,no,semi-furnished
+4585000,4000,Ulwe,3,1,2,yes,no,no,no,no,1,no,furnished
+4585000,3840,Ulwe,3,1,2,yes,no,no,no,no,1,yes,semi-furnished
+4550000,3760,Ulwe,3,1,1,yes,no,no,no,no,2,no,semi-furnished
+4550000,3640,Kharghar,3,1,2,yes,no,no,no,yes,0,no,furnished
+4550000,2550,Malad West,3,1,2,yes,no,yes,no,no,0,no,furnished
+4550000,5320,Dahisar,3,1,2,yes,yes,yes,no,no,0,yes,semi-furnished
+4550000,5360,kandivali,3,1,2,yes,no,no,no,no,2,yes,unfurnished
+4550000,3520,Goregaon,3,1,1,yes,no,no,no,no,0,yes,semi-furnished
+4550000,8400,Goregaon,4,1,4,yes,no,no,no,no,3,no,unfurnished
+4543000,4100,Goregaon,2,2,1,yes,yes,yes,no,no,0,no,semi-furnished
+4543000,4990,Goregaon,4,2,2,yes,yes,yes,no,no,0,yes,furnished
+4515000,3510,Goregaon,3,1,3,yes,no,no,no,no,0,no,semi-furnished
+4515000,3450,Goregaon East,3,1,2,yes,no,yes,no,no,1,no,semi-furnished
+4515000,9860,Malad East,3,1,1,yes,no,no,no,no,0,no,semi-furnished
+4515000,3520,Malad East,2,1,2,yes,no,no,no,no,0,yes,furnished
+4480000,4510,Bhandup West,4,1,2,yes,no,no,no,yes,2,no,semi-furnished
+4480000,5885,thakur village kandivali east,2,1,1,yes,no,no,no,yes,1,no,unfurnished
+4480000,4000,Santacruz West,3,1,2,yes,no,no,no,no,2,no,furnished
+4480000,8250,Kanjurmarg,3,1,1,yes,no,no,no,no,0,no,furnished
+4480000,4040,Borivali East,3,1,2,yes,no,no,no,no,1,no,semi-furnished
+4473000,6360,Kandivali East,2,1,1,yes,no,yes,no,yes,1,no,furnished
+4473000,3162,I C Colony,3,1,2,yes,no,no,no,yes,1,no,furnished
+4473000,3510,Dahisar W,3,1,2,yes,no,no,no,no,0,no,semi-furnished
+4445000,3750,Malad East,2,1,1,yes,yes,yes,no,no,0,no,semi-furnished
+4410000,3968,Marol,3,1,2,no,no,no,no,no,0,no,semi-furnished
+4410000,4900,Parel,2,1,2,yes,no,yes,no,no,0,no,semi-furnished
+4403000,2880,Lower Parel,3,1,2,yes,no,no,no,no,0,yes,semi-furnished
+4403000,4880,Parel,3,1,1,yes,no,no,no,no,2,yes,unfurnished
+4403000,4920,Worli,3,1,2,yes,no,no,no,no,1,no,semi-furnished
+4382000,4950,Lower Parel,4,1,2,yes,no,no,no,yes,0,no,semi-furnished
+4375000,3900,Jogeshwari East,3,1,2,yes,no,no,no,no,0,no,unfurnished
+4340000,4500,Jogeshwari East,3,2,3,yes,no,no,yes,no,1,no,furnished
+4340000,1905,Malad West,5,1,2,no,no,yes,no,no,0,no,semi-furnished
+4340000,4075,Chembur Shell Colony,3,1,1,yes,yes,yes,no,no,2,no,semi-furnished
+4340000,3500,Central Avenue,4,1,2,yes,no,no,no,no,2,no,furnished
+4340000,6450,Chembur East,4,1,2,yes,no,no,no,no,0,no,semi-furnished
+4319000,4032,Diamond Market Road,2,1,1,yes,no,yes,no,no,0,no,furnished
+4305000,4400,Mulund,2,1,1,yes,no,no,no,no,1,no,semi-furnished
+4305000,10360,Mulund,2,1,1,yes,no,no,no,no,1,yes,semi-furnished
+4277000,3400,Nalasopara West,3,1,2,yes,no,yes,no,no,2,yes,semi-furnished
+4270000,6360,raheja vihar,2,1,1,yes,no,no,no,no,0,no,furnished
+4270000,6360,raheja vihar,2,1,2,yes,no,no,no,no,0,no,unfurnished
+4270000,4500,Powai Lake,2,1,1,yes,no,no,no,yes,2,no,furnished
+4270000,2175,MHADA Colony 20,3,1,2,no,yes,yes,no,yes,0,no,unfurnished
+4270000,4360,Goregaon East,4,1,2,yes,no,no,no,no,0,no,furnished
+4270000,7770,Tolaram Colony,2,1,1,yes,no,no,no,no,1,no,furnished
+4235000,6650,Tolaram Colony,3,1,2,yes,yes,no,no,no,0,no,semi-furnished
+4235000,2787,Taloja,3,1,1,yes,no,yes,no,no,0,yes,furnished
+4200000,5500,Thane West,3,1,2,yes,no,no,no,yes,0,no,unfurnished
+4200000,5040,Vangani,3,1,2,yes,no,yes,no,yes,0,no,unfurnished
+4200000,5850,Sector 20 Kharghar,2,1,1,yes,yes,yes,no,no,2,no,semi-furnished
+4200000,2610,Sector 5 Ulwe,4,3,2,no,no,no,no,no,0,no,semi-furnished
+4200000,2953,Sector12 New Panvel,3,1,2,yes,no,yes,no,yes,0,no,unfurnished
+4200000,2747,Sector 17 Ulwe,4,2,2,no,no,no,no,no,0,no,semi-furnished
+4200000,4410,Sector 17 Ulwe,2,1,1,no,no,no,no,no,1,no,unfurnished
+4200000,4000,Sector9 Kamothe,4,2,2,no,no,no,no,no,0,no,semi-furnished
+4200000,2325,Sector 19 Kharghar,3,1,2,no,no,no,no,no,0,no,semi-furnished
+4200000,4600,Sector 5 Ulwe,3,2,2,yes,no,no,no,yes,1,no,semi-furnished
+4200000,3640,Navi Basti,3,2,2,yes,no,yes,no,no,0,no,unfurnished
+4200000,5800,Sector12 Kamothe,3,1,1,yes,no,no,yes,no,2,no,semi-furnished
+4200000,7000,Sector 21 Kamothe,3,1,1,yes,no,no,no,no,3,no,furnished
+4200000,4079,Sector 19 Kharghar,3,1,3,yes,no,no,no,no,0,no,semi-furnished
+4200000,3520,Sector 5 Ulwe,3,1,2,yes,no,no,no,no,0,yes,semi-furnished
+4200000,2145,Navi Basti,3,1,3,yes,no,no,no,no,1,yes,unfurnished
+4200000,4500,Sector12 Kamothe,3,1,1,yes,no,yes,no,no,0,no,furnished
+4193000,8250,Sector12 Kamothe,3,1,1,yes,no,yes,no,no,3,no,semi-furnished
+4193000,3450,Sector9 Kamothe,3,1,2,yes,no,no,no,no,1,no,semi-furnished
+4165000,4840,Sector12 Kamothe,3,1,2,yes,no,no,no,no,1,no,semi-furnished
+4165000,4080,Sector9 Kamothe,3,1,2,yes,no,no,no,no,2,no,semi-furnished
+4165000,4046,Sector12 Kamothe,3,1,2,yes,no,yes,no,no,1,no,semi-furnished
+4130000,4632,Sector9 Kamothe,4,1,2,yes,no,no,no,yes,0,no,semi-furnished
+4130000,5985,Sector 17 Ulwe,3,1,1,yes,no,yes,no,no,0,no,semi-furnished
+4123000,6060,Sector 17 Ulwe,2,1,1,yes,no,yes,no,no,1,no,semi-furnished
+4098500,3600,Sector9 Kamothe,3,1,1,yes,no,yes,no,yes,0,yes,furnished
+4095000,3680,Sector9 Kamothe,3,2,2,yes,no,no,no,no,0,no,semi-furnished
+4095000,4040,Sector 17 Ulwe,2,1,2,yes,no,no,no,no,1,no,semi-furnished
+4095000,5600,Sector 17 Ulwe,2,1,1,yes,no,no,no,yes,0,no,semi-furnished
+4060000,5900,Sector 17 Ulwe,4,2,2,no,no,yes,no,no,1,no,unfurnished
+4060000,4992,Taloja,3,2,2,yes,no,no,no,no,2,no,unfurnished
+4060000,4340,Rutu Enclave,3,1,1,yes,no,no,no,no,0,no,semi-furnished
+4060000,3000,taloja panchanand,4,1,3,yes,no,yes,no,yes,2,no,semi-furnished
+4060000,4320,Virar West,3,1,2,yes,no,no,no,no,2,yes,furnished
+4025000,3630,Chembur,3,2,2,yes,no,no,yes,no,2,no,semi-furnished
+4025000,3460,Central Avenue,3,2,1,yes,no,yes,no,yes,1,no,furnished
+4025000,5400,Chembur,3,1,1,yes,no,no,no,no,3,no,semi-furnished
+4007500,4500,Chembur,3,1,2,no,no,yes,no,yes,0,no,semi-furnished
+4007500,3460,Chembur,4,1,2,yes,no,no,no,yes,0,no,semi-furnished
+3990000,4100,Chembur,4,1,1,no,no,yes,no,no,0,no,unfurnished
+3990000,6480,Sector 20 Kamothe,3,1,2,no,no,no,no,yes,1,no,semi-furnished
+3990000,4500,Sector 22 Kamothe,3,2,2,no,no,yes,no,yes,0,no,semi-furnished
+3990000,3960,Sector 21 Kamothe,3,1,2,yes,no,no,no,no,0,no,furnished
+3990000,4050,Sector 22 Kamothe,2,1,2,yes,yes,yes,no,no,0,yes,unfurnished
+3920000,7260,Sector 18 Kamothe,3,2,1,yes,yes,yes,no,no,3,no,furnished
+3920000,5500,Sector 22 Kamothe,4,1,2,yes,yes,yes,no,no,0,no,semi-furnished
+3920000,3000,Sector-5 Kamothe,3,1,2,yes,no,no,no,no,0,no,semi-furnished
+3920000,3290,Sector-6A Kamothe,2,1,1,yes,no,no,yes,no,1,no,furnished
+3920000,3816,Sector 11 Kamothe,2,1,1,yes,no,yes,no,yes,2,no,furnished
+3920000,8080,Sector-18 Ulwe,3,1,1,yes,no,no,no,yes,2,no,semi-furnished
+3920000,2145,Sector 21 Kamothe,4,2,1,yes,no,yes,no,no,0,yes,unfurnished
+3885000,3780,Sector-12 Kamothe,2,1,2,yes,yes,yes,no,no,0,no,semi-furnished
+3885000,3180,Navi Basti,4,2,2,yes,no,no,no,no,0,no,furnished
+3850000,5300,azad nagar,5,2,2,yes,no,no,no,no,0,no,semi-furnished
+3850000,3180,Chembur,2,2,1,yes,no,yes,no,no,2,no,semi-furnished
+3850000,7152,Sindhi Society Chembur,3,1,2,yes,no,no,no,yes,0,no,furnished
+3850000,4080,Chembur,2,1,1,yes,no,no,no,no,0,no,semi-furnished
+3850000,3850,Kurla,2,1,1,yes,no,no,no,no,0,no,semi-furnished
+3850000,2015,Sahkar Nagar,3,1,2,yes,no,yes,no,no,0,yes,semi-furnished
+3850000,2176,Deonar,2,1,2,yes,yes,no,no,no,0,yes,semi-furnished
+3836000,3350,Kharghar,3,1,2,yes,no,no,no,no,0,no,unfurnished
+3815000,3150,Kharghar,2,2,1,no,no,yes,no,no,0,no,semi-furnished
+3780000,4820,Kandivali East,3,1,2,yes,no,no,no,no,0,no,semi-furnished
+3780000,3420,Kharghar,2,1,2,yes,no,no,yes,no,1,no,semi-furnished
+3780000,3600,Taloja,2,1,1,yes,no,no,no,no,0,no,semi-furnished
+3780000,5830,Taloja,2,1,1,yes,no,no,no,no,2,no,unfurnished
+3780000,2856,Taloja,3,1,3,yes,no,no,no,no,0,yes,furnished
+3780000,8400,Lower Parel,2,1,1,yes,no,no,no,no,1,no,furnished
+3773000,8250,Thane,3,1,1,yes,no,no,no,no,2,no,furnished
+3773000,2520,Jankalyan Nagar,5,2,1,no,no,yes,no,yes,1,no,furnished
+3773000,6930,Badlapur,4,1,2,no,no,no,no,no,1,no,furnished
+3745000,3480,Badlapur,2,1,1,yes,no,no,no,no,0,yes,semi-furnished
+3710000,3600,Ambarnath,3,1,1,yes,no,no,no,no,1,no,unfurnished
+3710000,4040,Ambarnath,2,1,1,yes,no,no,no,no,0,no,semi-furnished
+3710000,6020,Ambarnath,3,1,1,yes,no,no,no,no,0,no,semi-furnished
+3710000,4050,Ambernath West,2,1,1,yes,no,no,no,no,0,no,furnished
+3710000,3584,Vakola,2,1,1,yes,no,no,yes,no,0,no,semi-furnished
+3703000,3120,Jankalyan Nagar,3,1,2,no,no,yes,yes,no,0,no,semi-furnished
+3703000,5450,Jankalyan Nagar,2,1,1,yes,no,no,no,no,0,no,furnished
+3675000,3630,Jankalyan Nagar,2,1,1,yes,no,yes,no,no,0,no,furnished
+3675000,3630,Kamothe,2,1,1,yes,no,no,no,yes,0,no,unfurnished
+3675000,5640,Kamothe,2,1,1,no,no,no,no,no,0,no,semi-furnished
+3675000,3600,Kamothe,2,1,1,yes,no,no,no,no,0,no,furnished
+3640000,4280,Sector 17 Ulwe,2,1,1,yes,no,no,no,yes,2,no,semi-furnished
+3640000,3570,Kamothe,3,1,2,yes,no,yes,no,no,0,no,semi-furnished
+3640000,3180,Kamothe,3,1,2,no,no,yes,no,no,0,no,semi-furnished
+3640000,3000,Kamothe,2,1,2,yes,no,no,no,yes,0,no,furnished
+3640000,3520,Kamothe,2,2,1,yes,no,yes,no,no,0,no,semi-furnished
+3640000,5960,Kamothe,3,1,2,yes,yes,yes,no,no,0,no,unfurnished
+3640000,4130,Kamothe Sector 16,3,2,2,yes,no,no,no,no,2,no,semi-furnished
+3640000,2850,Sector 17 Ulwe,3,2,2,no,no,yes,no,no,0,yes,unfurnished
+3640000,2275,Kamothe,3,1,3,yes,no,no,yes,yes,0,yes,semi-furnished
+3633000,3520,Kamothe,3,1,1,yes,no,no,no,no,2,yes,unfurnished
+3605000,4500,Kamothe,2,1,1,yes,no,no,no,no,0,no,semi-furnished
+3605000,4000,Sector 17 Ulwe,2,1,1,yes,no,no,no,no,0,yes,semi-furnished
+3570000,3150,Kamothe,3,1,2,yes,no,yes,no,no,0,no,furnished
+3570000,4500,Kamothe,4,2,2,yes,no,yes,no,no,2,no,furnished
+3570000,4500,Kamothe,2,1,1,no,no,no,no,no,0,no,furnished
+3570000,3640,Kamothe,2,1,1,yes,no,no,no,no,0,no,unfurnished
+3535000,3850,Kamothe,3,1,1,yes,no,no,no,no,2,no,unfurnished
+3500000,4240,Kamothe,3,1,2,yes,no,no,no,yes,0,no,semi-furnished
+3500000,3650,Kamothe,3,1,2,yes,no,no,no,no,0,no,unfurnished
+3500000,4600,Kamothe,4,1,2,yes,no,no,no,no,0,no,semi-furnished
+3500000,2135,Kamothe,3,2,2,no,no,no,no,no,0,no,unfurnished
+3500000,3036,Kamothe,3,1,2,yes,no,yes,no,no,0,no,semi-furnished
+3500000,3990,Kamothe,3,1,2,yes,no,no,no,no,0,no,semi-furnished
+3500000,7424,Sector 17 Ulwe,3,1,1,no,no,no,no,no,0,no,unfurnished
+3500000,3480,Kamothe,3,1,1,no,no,no,no,yes,0,no,unfurnished
+3500000,3600,Almeida Park,6,1,2,yes,no,no,no,no,1,no,unfurnished
+3500000,3640,Khar,2,1,1,yes,no,no,no,no,1,no,semi-furnished
+3500000,5900,Bandra West,2,1,1,yes,no,no,no,no,1,no,furnished
+3500000,3120,Pali Hill,3,1,2,yes,no,no,no,no,1,no,unfurnished
+3500000,7350,15th Road,2,1,1,yes,no,no,no,no,1,no,semi-furnished
+3500000,3512,Palghar,2,1,1,yes,no,no,no,no,1,yes,unfurnished
+3500000,9500,Chembur,3,1,2,yes,no,no,no,no,3,yes,unfurnished
+3500000,5880,Kharghar,2,1,1,yes,no,no,no,no,0,no,unfurnished
+3500000,12944,Sector13 Kharghar,3,1,1,yes,no,no,no,no,0,no,unfurnished
+3493000,4900,Sector 20 Kharghar,3,1,2,no,no,no,no,no,0,no,unfurnished
+3465000,3060,Kharghar,3,1,1,yes,no,no,no,no,0,no,unfurnished
+3465000,5320,Kharghar,2,1,1,yes,no,no,no,no,1,yes,unfurnished
+3465000,2145,Kharghar,3,1,3,yes,no,no,no,no,0,yes,furnished
+3430000,4000,Kharghar,2,1,1,yes,no,no,no,no,0,no,unfurnished
+3430000,3185,Kharghar,2,1,1,yes,no,no,no,no,2,no,unfurnished
+3430000,3850,Kharghar,3,1,1,yes,no,no,no,no,0,no,unfurnished
+3430000,2145,Kharghar,3,1,3,yes,no,no,no,no,0,yes,furnished
+3430000,2610,Sector 21 Kharghar,3,1,2,yes,no,yes,no,no,0,yes,unfurnished
+3430000,1950,Sector 12 Kharghar,3,2,2,yes,no,yes,no,no,0,yes,unfurnished
+3423000,4040,Kharghar,2,1,1,yes,no,no,no,no,0,no,unfurnished
+3395000,4785,Kharghar,3,1,2,yes,yes,yes,no,yes,1,no,furnished
+3395000,3450,Kharghar,3,1,1,yes,no,yes,no,no,2,no,unfurnished
+3395000,3640,Kharghar,2,1,1,yes,no,no,no,no,0,no,furnished
+3360000,3500,Sector 21 Kharghar,4,1,2,yes,no,no,no,yes,2,no,unfurnished
+3360000,4960,Kharghar,4,1,3,no,no,no,no,no,0,no,semi-furnished
+3360000,4120,Kharghar,2,1,2,yes,no,no,no,no,0,no,unfurnished
+3360000,4750,Kharghar,2,1,1,yes,no,no,no,no,0,no,unfurnished
+3360000,3720,Kharghar,2,1,1,no,no,no,no,yes,0,no,unfurnished
+3360000,3750,Kharghar,3,1,1,yes,no,no,no,no,0,no,unfurnished
+3360000,3100,Santacruz West,3,1,2,no,no,yes,no,no,0,no,semi-furnished
+3360000,3185,Vivek Vidyalaya Marg,2,1,1,yes,no,yes,no,no,2,no,furnished
+3353000,2700,Goregaon West,3,1,1,no,no,no,no,no,0,no,furnished
+3332000,2145,Goregaon West,3,1,2,yes,no,yes,no,no,0,yes,furnished
+3325000,4040,Vasai east,2,1,1,yes,no,no,no,no,1,no,unfurnished
+3325000,4775,Nahur,4,1,2,yes,no,no,no,no,0,no,unfurnished
+3290000,2500,Badlapur West,2,1,1,no,no,no,no,yes,0,no,unfurnished
+3290000,3180,Thane West,4,1,2,yes,no,yes,no,yes,0,no,unfurnished
+3290000,6060,Thane,3,1,1,yes,yes,yes,no,no,0,no,furnished
+3290000,3480,Panvel,4,1,2,no,no,no,no,no,1,no,semi-furnished
+3290000,3792,Kalyan,4,1,2,yes,no,no,no,no,0,no,semi-furnished
+3290000,4040,Badlapur East,2,1,1,yes,no,no,no,no,0,no,unfurnished
+3290000,2145,Ambernath West,3,1,2,yes,no,yes,no,no,0,yes,furnished
+3290000,5880,Mira Bhayandar,3,1,1,yes,no,no,no,no,1,no,unfurnished
+3255000,4500,Malad West,2,1,1,no,no,no,no,no,0,no,semi-furnished
+3255000,3930,Goregaon West,2,1,1,no,no,no,no,no,0,no,unfurnished
+3234000,3640,Malad West,4,1,2,yes,no,yes,no,no,0,no,unfurnished
+3220000,4370,Malad West,3,1,2,yes,no,no,no,no,0,no,unfurnished
+3220000,2684,Malad West,2,1,1,yes,no,no,no,yes,1,no,unfurnished
+3220000,4320,Juhu,3,1,1,no,no,no,no,no,1,no,unfurnished
+3220000,3120,Kalyan,3,1,2,no,no,no,no,no,0,no,furnished
+3150000,3450,Naigaon East,1,1,1,yes,no,no,no,no,0,no,furnished
+3150000,3986,Naigaon East,2,2,1,no,yes,yes,no,no,1,no,unfurnished
+3150000,3500,Ambarnath,2,1,1,no,no,yes,no,no,0,no,semi-furnished
+3150000,4095,Mira Road East,2,1,1,yes,no,no,no,no,2,no,semi-furnished
+3150000,1650,Ulwe,3,1,2,no,no,yes,no,no,0,no,unfurnished
+3150000,3450,Sector 21 Ulwe,3,1,2,yes,no,yes,no,no,0,no,semi-furnished
+3150000,6750,Bandra East,2,1,1,yes,no,no,no,no,0,no,semi-furnished
+3150000,9000,Dronagiri,3,1,2,yes,no,no,no,no,2,no,semi-furnished
+3150000,3069,Nerul,2,1,1,yes,no,no,no,no,1,no,unfurnished
+3143000,4500,Karanjade,3,1,2,yes,no,no,no,yes,0,no,unfurnished
+3129000,5495,Karanjade,3,1,1,yes,no,yes,no,no,0,no,unfurnished
+3118850,2398,Karanjade,3,1,1,yes,no,no,no,no,0,yes,semi-furnished
+3115000,3000,Karanjade,3,1,1,no,no,no,no,yes,0,no,unfurnished
+3115000,3850,Karanjade,3,1,2,yes,no,no,no,no,0,no,unfurnished
+3115000,3500,Karanjade,2,1,1,yes,no,no,no,no,0,no,unfurnished
+3087000,8100,Sanpada,2,1,1,yes,no,no,no,no,1,no,unfurnished
+3080000,4960,Sanpada,2,1,1,yes,no,yes,no,yes,0,no,unfurnished
+3080000,2160,Sector-18 Ulwe,3,1,2,no,no,yes,no,no,0,no,semi-furnished
+3080000,3090,Sector-8 Ulwe,2,1,1,yes,yes,yes,no,no,0,no,unfurnished
+3080000,4500,Dronagiri,2,1,2,yes,no,no,yes,no,1,no,semi-furnished
+3045000,3800,Dronagiri,2,1,1,yes,no,no,no,no,0,no,unfurnished
+3010000,3090,Ulwe,3,1,2,no,no,no,no,no,0,no,semi-furnished
+3010000,3240,Ulwe,3,1,2,yes,no,no,no,no,2,no,semi-furnished
+3010000,2835,Sector-3 Ulwe,2,1,1,yes,no,no,no,no,0,no,semi-furnished
+3010000,4600,Sector-3 Ulwe,2,1,1,yes,no,no,no,no,0,no,furnished
+3010000,5076,Sector-3 Ulwe,3,1,1,no,no,no,no,no,0,no,unfurnished
+3010000,3750,Dronagiri,3,1,2,yes,no,no,no,no,0,no,unfurnished
+3010000,3630,Dronagiri,4,1,2,yes,no,no,no,no,3,no,semi-furnished
+3003000,8050,Sector 17 Ulwe,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2975000,4352,Dronagiri,4,1,2,no,no,no,no,no,1,no,unfurnished
+2961000,3000,Sector 23 Ulwe,2,1,2,yes,no,no,no,no,0,no,semi-furnished
+2940000,5850,Ulwe,3,1,2,yes,no,yes,no,no,1,no,unfurnished
+2940000,4960,Ulwe,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2940000,3600,Sector 17 Ulwe,3,1,2,no,no,no,no,no,1,no,unfurnished
+2940000,3660,Nerul,4,1,2,no,no,no,no,no,0,no,unfurnished
+2940000,3480,Sector 17 Ulwe,3,1,2,no,no,no,no,no,1,no,semi-furnished
+2940000,2700,Dronagiri,2,1,1,no,no,no,no,no,0,no,furnished
+2940000,3150,Dronagiri,3,1,2,no,no,no,no,no,0,no,unfurnished
+2940000,6615,Sector 17 Ulwe,3,1,2,yes,no,no,no,no,0,no,semi-furnished
+2870000,3040,Sector 23 Ulwe,2,1,1,no,no,no,no,no,0,no,unfurnished
+2870000,3630,Sector 17 Ulwe,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2870000,6000,Sector 17 Ulwe,2,1,1,yes,no,no,no,no,0,no,semi-furnished
+2870000,5400,ULWE SECTOR 19,4,1,2,yes,no,no,no,no,0,no,unfurnished
+2852500,5200,Ulwe,4,1,3,yes,no,no,no,no,0,no,unfurnished
+2835000,3300,Ulwe,3,1,2,no,no,no,no,no,1,no,semi-furnished
+2835000,4350,Ghodbunder Road,3,1,2,no,no,no,yes,no,1,no,unfurnished
+2835000,2640,Juhu,2,1,1,no,no,no,no,no,1,no,furnished
+2800000,2650,Dronagiri,3,1,2,yes,no,yes,no,no,1,no,unfurnished
+2800000,3960,Dronagiri,3,1,1,yes,no,no,no,no,0,no,furnished
+2730000,6800,Dronagiri,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2730000,4000,Dronagiri,3,1,2,yes,no,no,no,no,1,no,unfurnished
+2695000,4000,Panvel,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2660000,3934,Karanjade,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2660000,2000,Karanjade,2,1,2,yes,no,no,no,no,0,no,semi-furnished
+2660000,3630,Karanjade,3,3,2,no,yes,no,no,no,0,no,unfurnished
+2660000,2800,Karanjade,3,1,1,yes,no,no,no,no,0,no,unfurnished
+2660000,2430,Karanjade,3,1,1,no,no,no,no,no,0,no,unfurnished
+2660000,3480,Karanjade,2,1,1,yes,no,no,no,no,1,no,semi-furnished
+2660000,4000,Bhiwandi,3,1,1,yes,no,no,no,no,0,no,semi-furnished
+2653000,3185,Vasai,2,1,1,yes,no,no,no,yes,0,no,unfurnished
+2653000,4000,Nala Sopara,3,1,2,yes,no,no,no,yes,0,no,unfurnished
+2604000,2910,Nala Sopara,2,1,1,no,no,no,no,no,0,no,unfurnished
+2590000,3600,Vasai,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2590000,4400,Bhiwandi,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2590000,3600,Nala Sopara,2,2,2,yes,no,yes,no,no,1,no,furnished
+2520000,2880,Bhiwandi,3,1,1,no,no,no,no,no,0,no,unfurnished
+2520000,3180,Mira Road East,3,1,1,no,no,no,no,no,0,no,unfurnished
+2520000,3000,Bhiwandi,2,1,2,yes,no,no,no,no,0,no,furnished
+2485000,4400,Bhiwandi,3,1,2,yes,no,no,no,no,0,no,unfurnished
+2485000,3000,Bhiwandi,3,1,2,no,no,no,no,no,0,no,semi-furnished
+2450000,3210,Bhiwandi,3,1,2,yes,no,yes,no,no,0,no,unfurnished
+2450000,3240,Bhiwandi,2,1,1,no,yes,no,no,no,1,no,unfurnished
+2450000,3000,Bhiwandi,2,1,1,yes,no,no,no,no,1,no,unfurnished
+2450000,3500,Bhiwandi,2,1,1,yes,yes,no,no,no,0,no,unfurnished
+2450000,4840,Nala Sopara,2,1,2,yes,no,no,no,no,0,no,unfurnished
+2450000,7700,Nala Sopara,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2408000,3635,Nala Sopara,2,1,1,no,no,no,no,no,0,no,unfurnished
+2380000,2475,Nala Sopara,3,1,2,yes,no,no,no,no,0,no,furnished
+2380000,2787,Vasai,4,2,2,yes,no,no,no,no,0,no,furnished
+2380000,3264,Vasai,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2345000,3640,Dadar East,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2310000,3180,Dahisar,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2275000,1836,Ghatkopar,2,1,1,no,no,yes,no,no,0,no,semi-furnished
+2275000,3970,Ghatkopar,1,1,1,no,no,no,no,no,0,no,unfurnished
+2275000,3970,Worli,3,1,2,yes,no,yes,no,no,0,no,unfurnished
+2240000,1950,Breach Candy,3,1,1,no,no,no,yes,no,0,no,unfurnished
+2233000,5300,Wadala,3,1,1,no,no,no,no,yes,0,yes,unfurnished
+2135000,3000,Wadala,2,1,1,no,no,no,no,no,0,no,unfurnished
+2100000,2400,Wadala,3,1,2,yes,no,no,no,no,0,no,unfurnished
+2100000,3000,Wadala,4,1,2,yes,no,no,no,no,0,no,unfurnished
+2100000,3360,Wadala,2,1,1,yes,no,no,no,no,1,no,unfurnished
+1960000,3420,Kandivali West,5,1,2,no,no,no,no,no,0,no,unfurnished
+1890000,1700,Andheri East,3,1,2,yes,no,no,no,no,0,no,unfurnished
+1890000,3649,Goregaon East,2,1,1,yes,no,no,no,no,0,no,unfurnished
+1855000,2990,Malad East,2,1,1,no,no,no,no,no,1,no,unfurnished
+1820000,3000,Worli South Mumbai,2,1,1,yes,no,yes,no,no,2,no,unfurnished
+1767150,2400,Andheri East,3,1,1,no,no,no,no,no,0,no,semi-furnished
+1750000,3620,Asangaon,2,1,1,yes,no,no,no,no,0,no,unfurnished
+1750000,2910,Thane,3,1,1,no,no,no,no,no,0,no,furnished
+1750000,3850,Koparkhairane Station Road,3,1,2,yes,no,no,no,no,0,no,unfurnished
